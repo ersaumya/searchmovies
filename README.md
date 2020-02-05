@@ -1,6 +1,6 @@
 Search Movies:
-
 Its an angular 8 application integrated with PWA and hosted in firebase which help to search movie name and there details.
+
 Navigate to the Url:https://ng-search-movie.firebaseapp.com
 
 # SearchMovies
